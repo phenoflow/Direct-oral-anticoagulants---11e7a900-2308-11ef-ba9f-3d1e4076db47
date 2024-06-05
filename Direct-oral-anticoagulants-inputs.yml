@@ -1,0 +1,36 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-110mg---primary.py
+inputModule3:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-apixaban---primary.py
+inputModule4:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-xarelto---primary.py
+inputModule5:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-rivaroxaban---primary.py
+inputModule6:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-eliqui---primary.py
+inputModule7:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-150mg---primary.py
+inputModule8:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-edoxaban---primary.py
+inputModule9:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-lixiana---primary.py
+inputModule10:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-etexilate---primary.py
+inputModule11:
+  class: File
+  path: python/direct-oral-anticoagulants-doacs-pradaxa---primary.py
+inputModule12:
+  class: File
+  path: python/output-cases.py
